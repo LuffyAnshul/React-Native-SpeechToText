@@ -2,6 +2,8 @@
 
 ## Demo / Preview Video
 
+[![Youtube Video Demo](/demoImages/youtube.png)](https://www.youtube.com/watch?v=J1W60ks-4a0)
+
 ## Demo Images
 
 <p style="float: left">
