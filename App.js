@@ -1,10 +1,6 @@
 // Speech to Text Conversion in React Native – Voice Recognition
-// https://aboutreact.com/speech-to-text-conversion-in-react-native-voice-recognition/
-
-// import React in our code
 import React, {useState, useEffect} from 'react';
 
-// import all the components we are going to use
 import {
 	SafeAreaView,
 	StyleSheet,
@@ -15,7 +11,6 @@ import {
 	ScrollView,
 } from 'react-native';
 
-// import Voice
 import Voice from 'react-native-voice';
 
 const App = () => {
